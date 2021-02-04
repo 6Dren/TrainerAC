@@ -1,0 +1,4 @@
+﻿  TrainerAC.cpp
+D:\User\Activities\Apps\C++\TrainerAC\TrainerAC\TrainerAC.cpp(19,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\User\Activities\Apps\C++\TrainerAC\TrainerAC\TrainerAC.cpp(18,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  TrainerAC.vcxproj -> D:\User\Activities\Apps\C++\TrainerAC\Debug\TrainerAC.exe
